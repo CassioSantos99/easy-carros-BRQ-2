@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.back-button {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 16px 0px 0px 24px;
+}
+
+.title {
+  color: #0CDAC1;
+  font-family: Roboto;
+  margin: 24px;
+  font-size: 40px;
+}
